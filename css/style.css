@@ -9,3 +9,9 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
 }
+
+h2 {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: blue;
+}
